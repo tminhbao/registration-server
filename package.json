@@ -23,6 +23,7 @@
     "url": "https://github.com/robinhuy/fake-rest-api-nodejs/issues"
   },
   "dependencies": {
+    "express": "^4.18.2",
     "express-graphql": "^0.12.0",
     "formidable": "^2.0.1",
     "gh-pages": "^4.0.0",
